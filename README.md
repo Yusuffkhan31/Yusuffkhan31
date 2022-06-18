@@ -2,7 +2,7 @@
 
 * 👋 Hi, I’m @Yusuf Naiyer <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 * 👀 I’m Software Engineer at Infosys Ltd
-* 🌱 I’m Highly interested in in Data Science,Machine learning,Deep learning    
+* 🌱 I’m Highly interested in Artificial Intelligence,Data Science,Machine learning,Deep learning    
 * 📫 How to reach me
 
 
